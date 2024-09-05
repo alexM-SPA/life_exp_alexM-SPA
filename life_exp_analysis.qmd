@@ -1,0 +1,15 @@
+---
+title: "life_exp_analysis"
+format: html
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+```
+
+#abstract
+
+re-examine analysis of Oeppen and Vaupel (2002)
+
+#Analysis
